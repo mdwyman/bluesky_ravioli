@@ -1,0 +1,20 @@
+|2022-10-17 05:48:59.537|INFO|321278|bluesky-session|session_logs|47|RE Watchdog-Manager Comm| - ############################################################ startup
+|2022-10-17 05:48:59.538|INFO|321278|bluesky-session|session_logs|48|RE Watchdog-Manager Comm| - logging started
+|2022-10-17 05:48:59.538|INFO|321278|bluesky-session|session_logs|49|RE Watchdog-Manager Comm| - logging level = 10
+|2022-10-17 05:48:59.539|INFO|321278|bluesky-session|shutter_simulator|13|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/shutter_simulator.py
+|2022-10-17 05:49:00.717|INFO|321278|bluesky-session|motors|14|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/motors.py
+|2022-10-17 05:49:00.878|INFO|321278|bluesky-session|scaler_old|16|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/scaler_old.py
+|2022-10-17 05:49:00.944|INFO|321278|bluesky-session|image_analysis|12|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/utils/image_analysis.py
+|2022-10-17 05:49:03.506|INFO|321278|bluesky-session|adSimDet|21|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/adSimDet.py
+|2022-10-17 05:49:03.510|INFO|321278|bluesky-session|shadowDet|8|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/shadowDet.py
+|2022-10-17 05:49:03.516|INFO|321278|bluesky-session|spec_data_file_writer|13|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/callbacks/spec_data_file_writer.py
+|2023-05-04 16:24:57.069|INFO|486222|bluesky-session|session_logs|47|RE Watchdog-Manager Comm| - ############################################################ startup
+|2023-05-04 16:24:57.069|INFO|486222|bluesky-session|session_logs|48|RE Watchdog-Manager Comm| - logging started
+|2023-05-04 16:24:57.069|INFO|486222|bluesky-session|session_logs|49|RE Watchdog-Manager Comm| - logging level = 10
+|2023-05-04 16:24:57.070|INFO|486222|bluesky-session|shutter_simulator|13|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/shutter_simulator.py
+|2023-05-04 16:25:00.560|INFO|486222|bluesky-session|motors|14|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/motors.py
+|2023-05-04 16:25:00.741|INFO|486222|bluesky-session|scaler_old|16|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/scaler_old.py
+|2023-05-04 16:25:00.778|INFO|486222|bluesky-session|image_analysis|12|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/utils/image_analysis.py
+|2023-05-04 16:25:07.142|INFO|486222|bluesky-session|adSimDet|21|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/adSimDet.py
+|2023-05-04 16:25:07.146|INFO|486222|bluesky-session|shadowDet|8|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/devices/shadowDet.py
+|2023-05-04 16:25:07.150|INFO|486222|bluesky-session|spec_data_file_writer|13|RE Watchdog-Manager Comm| - /home/beams2/MWYMAN/bluesky/instrument/callbacks/spec_data_file_writer.py

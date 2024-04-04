@@ -1,0 +1,83 @@
+|2022-09-29 08:39:31.702|INFO|963782|bluesky-session|session_logs|47|MainThread| - ############################################################ startup
+|2022-09-29 08:39:31.702|INFO|963782|bluesky-session|session_logs|48|MainThread| - logging started
+|2022-09-29 08:39:31.703|INFO|963782|bluesky-session|session_logs|49|MainThread| - logging level = 10
+|2022-09-29 08:39:31.703|INFO|963782|bluesky-session|collection|7|MainThread| - /home/beams/MWYMAN/bluesky/instrument/collection.py
+|2022-09-29 08:39:31.704|INFO|963782|bluesky-session|collection|13|MainThread| - CONDA_PREFIX = /home/beams2/MWYMAN/micromamba/envs/bluesky_2022_3
+|2022-09-29 08:39:31.750|INFO|963782|bluesky-session|console|11|MainThread| - /home/beams/MWYMAN/bluesky/instrument/mpl/console.py
+|2022-09-29 08:39:32.639|INFO|963782|bluesky-session|collection|18|MainThread| - #### Bluesky Framework ####
+|2022-09-29 08:39:32.699|INFO|963782|bluesky-session|check_python|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_python.py
+|2022-09-29 08:39:32.716|INFO|963782|bluesky-session|check_bluesky|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_bluesky.py
+|2022-09-29 08:39:38.807|INFO|963782|bluesky-session|initialize|14|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/initialize.py
+|2022-09-29 08:39:39.188|INFO|963782|bluesky-session|initialize|71|MainThread| - using databroker catalog 'ravioli'
+|2022-09-29 08:39:39.189|INFO|963782|bluesky-session|initialize|111|MainThread| - using ophyd control layer: pyepics
+|2022-09-29 08:39:39.210|INFO|963782|bluesky-session|metadata|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/metadata.py
+|2022-09-29 08:39:39.647|INFO|963782|bluesky-session|collection|21|MainThread| - #### Devices ####
+|2022-09-29 08:40:21.975|INFO|964022|bluesky-session|session_logs|47|MainThread| - ############################################################ startup
+|2022-09-29 08:40:21.975|INFO|964022|bluesky-session|session_logs|48|MainThread| - logging started
+|2022-09-29 08:40:21.976|INFO|964022|bluesky-session|session_logs|49|MainThread| - logging level = 10
+|2022-09-29 08:40:21.976|INFO|964022|bluesky-session|collection|7|MainThread| - /home/beams/MWYMAN/bluesky/instrument/collection.py
+|2022-09-29 08:40:21.977|INFO|964022|bluesky-session|collection|13|MainThread| - CONDA_PREFIX = /home/beams2/MWYMAN/micromamba/envs/bluesky_2022_3
+|2022-09-29 08:40:21.981|INFO|964022|bluesky-session|console|11|MainThread| - /home/beams/MWYMAN/bluesky/instrument/mpl/console.py
+|2022-09-29 08:40:22.657|INFO|964022|bluesky-session|collection|18|MainThread| - #### Bluesky Framework ####
+|2022-09-29 08:40:22.661|INFO|964022|bluesky-session|check_python|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_python.py
+|2022-09-29 08:40:22.663|INFO|964022|bluesky-session|check_bluesky|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_bluesky.py
+|2022-09-29 08:40:27.628|INFO|964022|bluesky-session|initialize|14|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/initialize.py
+|2022-09-29 08:40:28.004|INFO|964022|bluesky-session|initialize|71|MainThread| - using databroker catalog 'ravioli'
+|2022-09-29 08:40:28.005|INFO|964022|bluesky-session|initialize|111|MainThread| - using ophyd control layer: pyepics
+|2022-09-29 08:40:28.007|INFO|964022|bluesky-session|metadata|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/metadata.py
+|2022-09-29 08:40:28.394|INFO|964022|bluesky-session|collection|21|MainThread| - #### Devices ####
+|2022-09-29 08:40:28.408|INFO|964022|bluesky-session|shutter_simulator|13|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/shutter_simulator.py
+|2022-09-29 08:40:29.505|INFO|964022|bluesky-session|scaler|12|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/scaler.py
+|2022-09-29 08:54:42.148|INFO|966927|bluesky-session|session_logs|47|MainThread| - ############################################################ startup
+|2022-09-29 08:54:42.148|INFO|966927|bluesky-session|session_logs|48|MainThread| - logging started
+|2022-09-29 08:54:42.148|INFO|966927|bluesky-session|session_logs|49|MainThread| - logging level = 10
+|2022-09-29 08:54:42.149|INFO|966927|bluesky-session|collection|7|MainThread| - /home/beams/MWYMAN/bluesky/instrument/collection.py
+|2022-09-29 08:54:42.149|INFO|966927|bluesky-session|collection|13|MainThread| - CONDA_PREFIX = /home/beams2/MWYMAN/micromamba/envs/bluesky_2022_3
+|2022-09-29 08:54:42.153|INFO|966927|bluesky-session|console|11|MainThread| - /home/beams/MWYMAN/bluesky/instrument/mpl/console.py
+|2022-09-29 08:54:42.845|INFO|966927|bluesky-session|collection|18|MainThread| - #### Bluesky Framework ####
+|2022-09-29 08:54:42.850|INFO|966927|bluesky-session|check_python|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_python.py
+|2022-09-29 08:54:42.852|INFO|966927|bluesky-session|check_bluesky|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_bluesky.py
+|2022-09-29 08:54:47.674|INFO|966927|bluesky-session|initialize|14|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/initialize.py
+|2022-09-29 08:54:47.995|INFO|966927|bluesky-session|initialize|71|MainThread| - using databroker catalog 'ravioli'
+|2022-09-29 08:54:47.997|INFO|966927|bluesky-session|initialize|111|MainThread| - using ophyd control layer: pyepics
+|2022-09-29 08:54:47.998|INFO|966927|bluesky-session|metadata|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/metadata.py
+|2022-09-29 08:54:48.427|INFO|966927|bluesky-session|collection|21|MainThread| - #### Devices ####
+|2022-09-29 08:54:48.479|INFO|966927|bluesky-session|shutter_simulator|13|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/shutter_simulator.py
+|2022-09-29 08:54:49.015|INFO|966927|bluesky-session|motors|14|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/motors.py
+|2022-09-29 08:54:49.189|INFO|966927|bluesky-session|scaler_old|16|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/scaler_old.py
+|2022-09-29 08:54:49.190|INFO|966927|bluesky-session|collection|24|MainThread| - #### Callbacks ####
+|2022-09-29 08:54:49.243|INFO|966927|bluesky-session|spec_data_file_writer|13|MainThread| - /home/beams/MWYMAN/bluesky/instrument/callbacks/spec_data_file_writer.py
+|2022-09-29 08:54:49.245|INFO|966927|bluesky-session|collection|27|MainThread| - #### Plans ####
+|2022-09-29 08:54:49.378|INFO|966927|bluesky-session|collection|30|MainThread| - #### Utilities ####
+|2022-09-29 08:54:49.453|INFO|966927|bluesky-session|image_analysis|12|MainThread| - /home/beams/MWYMAN/bluesky/instrument/utils/image_analysis.py
+|2022-09-29 08:54:49.749|INFO|966927|bluesky-session|adSimDet|21|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/adSimDet.py
+|2022-09-29 08:54:49.754|INFO|966927|bluesky-session|shadowDet|8|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/shadowDet.py
+|2022-09-29 09:25:33.076|INFO|972880|bluesky-session|session_logs|47|MainThread| - ############################################################ startup
+|2022-09-29 09:25:33.076|INFO|972880|bluesky-session|session_logs|48|MainThread| - logging started
+|2022-09-29 09:25:33.077|INFO|972880|bluesky-session|session_logs|49|MainThread| - logging level = 10
+|2022-09-29 09:25:33.078|INFO|972880|bluesky-session|collection|7|MainThread| - /home/beams/MWYMAN/bluesky/instrument/collection.py
+|2022-09-29 09:25:33.079|INFO|972880|bluesky-session|collection|13|MainThread| - CONDA_PREFIX = /home/beams2/MWYMAN/micromamba/envs/bluesky_2022_3
+|2022-09-29 09:25:33.083|INFO|972880|bluesky-session|console|11|MainThread| - /home/beams/MWYMAN/bluesky/instrument/mpl/console.py
+|2022-09-29 09:25:33.780|INFO|972880|bluesky-session|collection|18|MainThread| - #### Bluesky Framework ####
+|2022-09-29 09:25:33.784|INFO|972880|bluesky-session|check_python|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_python.py
+|2022-09-29 09:25:33.786|INFO|972880|bluesky-session|check_bluesky|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/check_bluesky.py
+|2022-09-29 09:25:38.559|INFO|972880|bluesky-session|initialize|14|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/initialize.py
+|2022-09-29 09:25:38.887|INFO|972880|bluesky-session|initialize|71|MainThread| - using databroker catalog 'ravioli'
+|2022-09-29 09:25:38.888|INFO|972880|bluesky-session|initialize|111|MainThread| - using ophyd control layer: pyepics
+|2022-09-29 09:25:38.890|INFO|972880|bluesky-session|metadata|9|MainThread| - /home/beams/MWYMAN/bluesky/instrument/framework/metadata.py
+|2022-09-29 09:25:39.276|INFO|972880|bluesky-session|collection|21|MainThread| - #### Devices ####
+|2022-09-29 09:25:39.300|INFO|972880|bluesky-session|shutter_simulator|13|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/shutter_simulator.py
+|2022-09-29 09:25:39.841|INFO|972880|bluesky-session|motors|14|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/motors.py
+|2022-09-29 09:25:40.003|INFO|972880|bluesky-session|scaler_old|16|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/scaler_old.py
+|2022-09-29 09:25:40.005|INFO|972880|bluesky-session|collection|24|MainThread| - #### Callbacks ####
+|2022-09-29 09:25:40.011|INFO|972880|bluesky-session|spec_data_file_writer|13|MainThread| - /home/beams/MWYMAN/bluesky/instrument/callbacks/spec_data_file_writer.py
+|2022-09-29 09:25:40.026|INFO|972880|bluesky-session|collection|27|MainThread| - #### Plans ####
+|2022-09-29 09:25:40.118|INFO|972880|bluesky-session|collection|30|MainThread| - #### Utilities ####
+|2022-09-29 09:25:40.131|INFO|972880|bluesky-session|image_analysis|12|MainThread| - /home/beams/MWYMAN/bluesky/instrument/utils/image_analysis.py
+|2022-09-29 09:25:40.385|INFO|972880|bluesky-session|adSimDet|21|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/adSimDet.py
+|2022-09-29 09:25:40.403|INFO|972880|bluesky-session|shadowDet|8|MainThread| - /home/beams/MWYMAN/bluesky/instrument/devices/shadowDet.py
+|2022-09-29 09:25:40.403|INFO|972880|bluesky-session|collection|38|MainThread| - writing to SPEC file: /home/beams2/MWYMAN/bluesky/instrument/20220929-092540.dat
+|2022-09-29 09:25:40.404|INFO|972880|bluesky-session|collection|39|MainThread| -    >>>>   Using default SPEC file name   <<<<
+|2022-09-29 09:25:40.404|INFO|972880|bluesky-session|collection|40|MainThread| -    file will be created when bluesky ends its next scan
+|2022-09-29 09:25:40.405|INFO|972880|bluesky-session|collection|41|MainThread| -    to change SPEC file, use command:   newSpecFile('title')
+|2022-09-29 09:25:40.405|INFO|972880|bluesky-session|collection|45|MainThread| - #### Startup is complete. ####
